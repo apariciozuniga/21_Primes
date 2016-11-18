@@ -1,0 +1,101 @@
+.back{
+	background-image: url(../img/background/hero.jpg);
+	z-index: 1;
+	background-size: 100% 100%;
+	padding: 15%;
+
+}
+.features{
+	width:90%; 
+	height:90%;
+}
+.center{
+	margin-left: 40%;
+}
+.bck-gray{
+	background-color: #f2f2f2;
+	padding: 2%;
+}
+
+.customer{
+	width: 10%;
+	height: 10%;
+	margin-left: 45%;
+	margin-top: 5%;
+}
+.bck-computer{
+	background-image: url(../img/background/contactus.jpg);
+	background-size: 100% 100%;
+	opacity: .9;
+}
+ul li{
+	list-style: none;
+}
+.back-white{
+	background-color: white;
+
+}
+.bxblue{
+	background-color: #0c033d;
+	padding: 6%;
+	font-size: 125%;
+}
+#bxaqua{
+	background-color: #45dbe0;
+	padding: 6%;
+	font-size: 125%;
+}
+.bx-gray{
+	background-color: #dee2e2;
+	padding: 2%;
+}
+.bck-imagen{
+	background-image: url(../img/background/city.jpg);
+	background-size: 100% 100%;
+	z-index: 1;
+	padding: 15%;
+}
+
+.redes{
+	display: inline-block;
+
+}
+.bck-black{
+	background-color: #323a3a;
+	padding: 2%;
+}
+.btn-more{
+	opacity:.3;
+
+
+}
+.btn-load{
+	background-color: #2f3535;
+	margin-left: 45%;
+
+}
+.btn-sub{
+	background-color: #45dbe0;
+	width: 30%;
+	padding: 2%;
+
+}
+.btn-port{
+	background-color: #2f3535;
+	margin-left: 70%;
+}
+.btn-call{
+	margin-left: 43%;
+	margin-top: 10%;
+}
+.btn-pur{
+	background-color: #2f3535;
+}
+.titulo{
+	font-size: 150%;
+}
+.logo{
+	display: inline;
+	width: 20%;
+	height: 20%;
+}

@@ -1,0 +1,124 @@
+
+.mc{
+	margin: 0%;
+}
+
+.sbt1{
+	font-family: 'Open Sans', sans-serif;
+}
+
+.titulos{
+	font-size: 32px;
+	font-style: bold;
+}
+
+.stitulos{
+	font-size: 25px;
+	font-style: bold;
+	margin-left: 105px;
+}
+
+.icons{
+	margin-left:60px; 
+}
+
+.iconsr{
+	margin-right:20px; 
+}
+
+.pd-3 {
+	padding: 3%;
+}
+
+.pd-2 {
+	padding: 2%;
+}
+
+.pt-3 {
+	padding-top: 3%;
+}
+
+.pb-3 {
+	padding-bottom: 3%;
+}
+
+.pl-20{
+	padding-left: 20%;
+}
+.pr-20{
+	padding-right: 20%;
+}
+
+#menu2{
+	padding: 10%;
+
+}
+
+.mr-5{
+	margin-left: 100px;
+}
+
+.mb-3{
+	margin-bottom: 3%;
+}
+
+.bg-gray{
+	background-color: rgb(244, 244, 244);
+}
+
+.ins{
+	filter: brightness(50%);
+ 	opacity: 0.5;
+    filter: alpha(opacity=50);
+    font-size: 16px;
+    width: 650px;
+}
+
+.opacity{
+	 opacity: 1;
+    filter: alpha(opacity=100);
+}
+
+#load{
+	background-color: #0B173B;
+	width: 130px;
+	height: 40px;
+	color: white;
+	text-decoration: none;
+	margin-left: 45%;
+	padding: 10px;
+}
+
+#load2{
+	background-color: #0080FF;
+	width: 150px;
+	height: 40px;
+	color: white;
+	text-decoration: none;
+	margin-left: 14%;
+	padding: 10px;
+	font-size: 16px;
+}
+
+
+a.boton { 
+	color: black;  
+	padding: 10px; 
+	background-color: white; 
+	font-weight: bold; 
+	text-decoration: none; 
+} 
+
+a.boton:hover { 
+	font-style: italic; 
+	box-shadow: 0px 0px 5px 0px #000000;
+	background-color: #0080FF; 
+} 
+a.boton:active { 
+	color:#0B173B; 
+	background-color: #0080FF; 
+	box-shadow: 0px 0px 10px 0px #000000;
+	background-color:#00BFFF; 
+}
+
+
